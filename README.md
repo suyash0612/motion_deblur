@@ -1,5 +1,9 @@
 # motion deblur
 
+## input
+To provide your input just append the filename , the os module takes care of the path.
+
+
 ## perform motion deblur using opencv
 logic:
 1: Find the point spread function for the image
